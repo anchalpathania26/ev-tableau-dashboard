@@ -6,11 +6,10 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Images/ev_dashboard_overview.png)
+<img width="1884" height="962" alt="image" src="https://github.com/user-attachments/assets/9bc32e7e-e3ce-4c32-b22e-2c992f9aad72" />
+
 
 ---
-
-## 🔗 Live Interactive Dashboard
 
 ## 🔗 Live Dashboard
 👉 [View Interactive Dashboard](https://public.tableau.com/app/profile/anchal.pathania/viz/work1_17755680613700/Dashboard1)
